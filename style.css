@@ -1,0 +1,706 @@
+body{
+    margin: 0px;
+    /* overflow-x: hidden; */
+}
+
+.page1{
+    background-image: url("965addb3e1b6ba80c136d7410dbfc8b4.jpg");
+    width: 1920px;
+    height: 740px;
+    background-color: rgba(64, 65, 73, 0.9);
+    background-blend-mode: multiply;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.logo2{
+    width: 40.69px;
+    height: 40.72px;
+    top: 30px;
+    left: 424.31px;
+    position: relative;
+}
+
+.logo1{
+    width: 40.69px;
+    height: 40.69px;
+    top: 89.31px;
+    left: 405px;
+    position: relative;
+}
+
+.menu{
+    width: 50px;
+    height: 50px;
+    background-color: #F7654A;
+    top: 0px;
+    left: 1465px;
+    position: relative;
+    cursor: pointer;
+    appearance: none;
+    border: none;
+}
+
+.mainWords{
+    width: 734px;
+    height: 171px;
+    top: 72px;
+    left: 593px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Oswald;
+    font-size: 25px;
+    line-height: 94.85px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    position: relative;
+    color: white;
+}
+
+.examples{
+    width: 734px;
+    height: 22px;
+    top: 98px;
+    left: 593px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Oswald;
+    font-size: 18px;
+    line-height: 26.68px;
+    text-align: center;
+    position: relative;
+    color: white;
+}
+
+.numbers{
+    background-color: rgba(247, 247, 247, 1);
+    ;
+    width: 1110px;
+    height: 300px;
+    top: 190px;
+    left: 405px;
+    gap: 0px;
+    opacity: 0px;
+    position: relative;
+    display: flex;
+}
+
+.nums1{
+    width: 277.5px;
+    height: 300px;
+    display: inline-block;
+}
+.nums2{
+    width: 277.5px;
+    height: 300px;
+}
+.nums3{
+    width: 277.5px;
+    height: 300px;
+}
+.nums4{
+    width: 277.5px;
+    height: 300px;
+}
+
+.nums{
+    text-align: center;
+    margin-top: 40px;
+}
+.year{
+    font-family: Oswald;
+    font-size: 72px;
+    line-height: 106.7px;
+    text-align: center;
+    color: rgba(247, 101, 74, 1);
+}
+.years{
+    font-family: Oswald;
+    font-size: 36px;
+    line-height: 53.35px;
+    text-align: center;
+}
+.naRinke{
+    font-family: Oswald;
+    font-size: 18px;
+    line-height: 26.68px;
+    text-align: center;
+    color: rgba(153, 153, 153, 1);
+}
+
+.project{
+    background-color:white;
+    width: 1110px;
+    height: 681px;
+    top: 190px;
+    left: 405px;
+    gap: 0px;
+    opacity: 0px;
+    position: relative;
+}
+
+.projectHeader{
+    width: 1110px;
+    height: 43px;
+    top: 90px;
+    gap: 0px;
+    opacity: 0px;
+    color: #404149;
+    font-family: Oswald;
+    font-size: 46px;
+    line-height: 53.35px;
+    text-align: center;
+    margin-bottom: 50px;
+    font-weight: 700;
+}
+
+.projects{
+    width: 1110px;
+    height: 588px;
+    display: flex;
+    
+}
+
+.project1{
+    width: 370px;
+    height: 681px;
+    background-color:white;
+}
+.project2{
+    width: 370px;
+    height: 681px;
+    background-color:white;
+}
+.project3{
+    width: 370px;
+    height: 681px;
+    background-color:white;
+}
+
+.projectPhoto{
+    width: 350px;
+    height: 380px;
+    top: 1093px;
+    left: 405px;
+    gap: 0px;
+    opacity: 0px;
+    background-image: url("29197c0fc5e6d9cb9605758afe55c3d5.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.aboutProject{
+    width: 350px;
+}
+.nameProject{
+    font-family: Oswald;
+    font-size: 24px;
+    line-height: 35.57px;
+    text-align: left;
+    color: rgba(64, 65, 73, 1);
+    font-weight: 700;
+}
+.descriptionProject{
+    font-family: Open Sans;
+    font-size: 16px;
+    line-height: 21.79px;
+    text-align: left;
+    color:  rgba(153, 153, 153, 1);
+    
+}
+
+.hrProject{
+    width: 55px;
+    height: 6px;
+    top: 1518px;
+    left: 405px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #F7654A;
+    border: none;
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+
+.orangeLine{
+    width: 1920px;
+    height: 181px;
+    top: 321px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #F7654A;
+    position: relative;
+    display: flex;
+}
+
+.mostSmart{
+    font-family: Oswald;
+    font-size: 48px;
+    height: 71.14px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: white;
+    left: 405px;
+    position: relative;
+    font-weight: 700;
+}
+
+.realise{
+    font-family: Oswald;
+    font-size: 24px;
+    line-height: 35.57px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: white;
+    left: 405px;
+    position: relative;
+}
+
+.email{
+    position: relative;
+    display: flex;
+    width: 175px;
+    height: 49px;
+    top: 74px;
+    left: 840px;
+    gap: 0px;
+    opacity: 0px;
+    cursor: pointer;
+    appearance: none;
+    border: none;
+    background-color: white;
+}
+
+.envelope{
+    vertical-align:middle;
+    margin-top: 15.5px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.request{
+    font-family: Oswald;
+    font-size: 14px;
+    line-height: 20.75px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    vertical-align:middle;
+    margin-left: 10px;
+}
+
+.blockDeals{
+    width: 1170px;
+    height: 639px;
+    top: 402px;
+    left: 405px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: white;
+    position: relative;
+}
+
+
+.dealsHeader{
+    width: 351px;
+    height: 43px;
+    top: 52px;
+    left: 405px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Oswald;
+    font-size: 36px;
+    line-height: 53.35px;
+    text-align: left;
+    color: black;
+    text-align: center;
+    position: relative;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+
+.table{
+    background-color:#F7F7F7;
+    height: 544px;
+    width: 1170px;
+    top:95px;
+    position: relative;
+}
+
+table{
+    height: 544px;
+    width: 1170px;
+    border-collapse: collapse; 
+}
+th {
+    padding: 0px; 
+    border: 30px solid white;
+    font-family: Oswald;
+    font-size: 21px;
+    line-height: 31.12px;
+    letter-spacing: 0.02em;
+    text-align: center;
+
+  }
+
+.buildings{
+    background-image: url("buiding.png");
+    width: 1920px;
+    height: 814px;
+    top: 580px;
+    gap: 0px;
+    opacity: 0px;
+    position: relative;
+}
+
+.answers{
+    width: 730px;
+    height: 452px;
+    top: 705px;
+    left: 405px;
+    gap: 0px;
+    opacity: 0px;
+    position: relative;
+    background-color: white;
+}
+
+.answersHeader{
+    font-family: Oswald;
+    font-size: 36px;
+    line-height: 53.35px;
+    text-align: left;
+    background-color: white;
+    text-align: right;
+    margin-bottom: 60px;
+}
+
+.questoins{
+    color: #F7654A;
+    font-family: Oswald;
+    font-size: 24px;
+    line-height: 35.57px;
+    text-align: left;
+
+}
+
+.questoins li{
+    color: white;
+}
+
+.info__switch1, .info__switch2, .info__switch3, .info__switch4{
+    display: none;
+}
+
+.question1, .question2, .question3, .question4{
+    display: block;
+    position: relative;
+    margin-bottom: 35px;
+    user-select: none;
+    color: #F7654A;
+    font-weight: normal;
+    cursor: pointer;
+    font-family: Oswald;
+    font-size: 24px;
+    line-height: 35.57px;
+    text-align: left;
+}
+
+.answer1, .answer2, .answer3, .answer4{
+    max-height: 0;
+    overflow: hidden;
+    transition: 0.4s;
+    font-family: Open Sans;
+    font-size: 16px;
+    line-height: 21.79px;
+    text-align: left;
+    color: #999999;
+}
+
+.info__switch1:checked~.answer1{
+    max-height: 180px;
+}
+
+.info__switch2:checked~.answer2{
+    max-height: 180px;
+}
+
+.info__switch3:checked~.answer3{
+    max-height: 180px;
+}
+
+.info__switch4:checked~.answer4{
+    max-height: 180px;
+}
+
+.question1::before{
+    content: "";
+    position: absolute;
+    left: -18px;
+    top: 9px;
+    border: 8px solid #F7654A;
+    border-top-color: transparent;
+    border-bottom-color: transparent;
+    border-right-color: transparent;
+}
+  
+.question2::before{
+    content: "";
+    position: absolute;
+    left: -18px;
+    top: 9px;
+    border: 8px solid #F7654A;
+    border-top-color: transparent;
+    border-bottom-color: transparent;
+    border-right-color: transparent;
+}
+
+.question3::before{
+    content: "";
+    position: absolute;
+    left: -18px;
+    top: 9px;
+    border: 8px solid #F7654A;
+    border-top-color: transparent;
+    border-bottom-color: transparent;
+    border-right-color: transparent;
+}
+  
+.question4::before{
+    content: "";
+    position: absolute;
+    left: -18px;
+    top: 9px;
+    border: 8px solid #F7654A;
+    border-top-color: transparent;
+    border-bottom-color: transparent;
+    border-right-color: transparent;
+}
+
+.info__switch1:checked~.question1::before{
+    transform: rotate(-90deg) translateY(-10px) translateX(5px);
+}
+
+.info__switch2:checked~.question2::before{
+    transform: rotate(-90deg) translateY(-10px) translateX(5px);
+}
+
+.info__switch3:checked~.question3::before{
+    transform: rotate(-90deg) translateY(-10px) translateX(5px);
+}
+
+.info__switch4:checked~.question4::before{
+    transform: rotate(-90deg) translateY(-10px) translateX(5px);
+}
+
+
+.partnership{
+    background-color: #404149;
+    width: 1920px;
+    height: 364px;
+    top: 737px;
+    gap: 0px;
+    opacity: 0px;
+    position: relative;
+}
+
+.ourPartenrs{
+    font-family: Oswald;
+    font-size: 46px;
+    line-height: 53.35px;
+    text-align: left;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 80px;
+}
+
+.partners{
+    height: 61px;
+    width: 1106px;
+    position: relative;
+    top: 100px;
+    left: 407px;
+    display: flex;
+}
+
+.partner{
+    height: 61px;
+    width: 170px;
+    margin-right: 64px;
+}
+
+.feedbackBlock{
+    width: 1110px;
+    height: 431px;
+    top: 871px;
+    left: 405px;
+    gap: 0px;
+    opacity: 0px;
+    position: relative;
+}
+
+.feedbackHeader{
+    font-family: Oswald;
+    font-size: 46px;
+    line-height: 53.35px;
+    text-align: left;
+    color: black;
+    position: relative;
+    text-align: center;
+}
+
+.feedbacks{
+    width: 1110px;
+    height: 259px;
+    position: relative;
+    display: flex;
+}
+
+.feedback{
+    width: 350px;
+    height: 208px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: Open Sans;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: left;
+    color: #999999;
+    background-color: #F7F7F7;
+}
+
+.names{
+    width: 1110px;
+    height: 35px;
+    margin-top: 20px;
+    display: flex;
+}
+
+.name{
+    height: 35px;
+    width: 350px;
+    font-family: Oswald;
+    font-size: 21px;
+    line-height: 31.12px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+.name>span{
+    color: #F7654A;
+}
+
+.orangeLine2{
+    width: 1920px;
+    height: 181px;
+    top: 971px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #F7654A;
+    position: relative;
+    display: flex;
+}
+
+
+
+.wantWork{
+    font-family: Oswald;
+    font-size: 48px;
+    height: 71.14px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: white;
+    left: 405px;
+    position: relative;
+    font-weight: 700;
+}
+
+.application{
+    font-family: Oswald;
+    font-size: 24px;
+    line-height: 35.57px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: white;
+    left: 405px;
+    position: relative;
+}
+
+.contactsBlock{
+    width: 1110px;
+    height: 304px;
+    top: 1083px;
+    left: 405px;
+    gap: 0px;
+    opacity: 0px;
+    position: relative;
+}
+
+.contactsHeader{
+    height: 53px;
+    width: 1110px;
+    font-family: Oswald;
+    font-size: 36px;
+    line-height: 53.35px;
+    text-align: left;
+    text-align: center;
+    font-weight: 700;
+}
+
+.contacts{
+    width: 1110px;
+    height: 191px;
+    display: flex;
+    margin-top: 30px;;
+}
+
+.adress{
+    width: 255px;
+    height: 191px;
+}
+
+.phone{
+    width: 255px;
+    height: 191px;
+}
+
+.time{
+    width: 255px;
+    height: 191px;
+}
+
+.emailAdress{
+    width: 255px;
+    height: 191px;
+}
+
+footer{
+    width: 1920px;
+    height: 82px;
+    top: 1237px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #404149;
+    position: relative;
+    display: flex;
+}
+
+.left{
+    color: white;
+    font-family: Open Sans;
+    font-size: 16px;
+    line-height: 21.79px;
+    margin-left: 405px;
+}
+
+.right{
+    color: white;
+    font-family: Open Sans;
+    font-size: 16px;
+    line-height: 21.79px;
+    text-align: right;
+    margin-left: 639px;
+}
